@@ -30,3 +30,15 @@ We'll extract the intent and parameters for each prompt.
 - Budget: < $100
 - Sort by: "good reviews"
 
+---
+
+## 📘 What is a Docstring?
+A docstring is a special type of string literal used to document a function, class, or module in Python. It is placed just below the definition line and enclosed in triple quotes (""" """ or ''' ''').
+
+## 🧠 Purpose of a Docstring:
+📄 Describe what the function/class/module does.
+✅ Clarify the expected input parameters and return values.
+🧪 Help developers, tools, and LLMs understand the function's purpose without reading the code logic.
+📚 Automatically used by tools like help(), IDE tooltips, and documentation generators.
+
+
