@@ -46,10 +46,10 @@ This ensures your OpenAI key from `.env` is accessible in the code.
 
 ## Exercise:
 
-Objective: Make a teacher agent and make an input guardrail trigger.
-Prompt: I want to change my class timings 😭😭
+**Objective:** Make a teacher agent and make an input guardrail trigger.
+**Prompt:** I want to change my class timings 
 
-Outcome: After running the above prompt an InputGuardrailTripwireTriggered in except should be called. See the outcome in LOGS
+**Outcome:** After running the above prompt an InputGuardrailTripwireTriggered in except should be called. See the outcome in LOGS
 
 ---
 
